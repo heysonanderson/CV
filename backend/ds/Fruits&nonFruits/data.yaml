@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 25
+names: ['banana', 'beet', 'butternut squash', 'cabbage', 'carrot', 'cucumber', 'eggplant', 'garlic', 'ginger', 'grapes', 'green apple', 'lemon', 'mandarin', 'melon', 'onion', 'orange', 'pear', 'pineapple', 'pomegranate', 'potato', 'pumpkin', 'red apple', 'sweet pepper', 'tomato', 'watermelon']
